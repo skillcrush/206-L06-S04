@@ -3,11 +3,11 @@ html {
   background: url(../img/pexels-marcus-aurelius-4063619.jpg);
   background-size: cover;
   background-position: center;
-  /* Add a width of 100% */
+  /* Add a height of 100% */
 }
 
 body {
-  /* Add a width of 100% */
+  /* Add a height of 100% */
 }
 
 .wrapper {
